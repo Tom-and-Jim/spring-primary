@@ -3,7 +3,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="book" class="Book">
+    <bean id="book" class="chapter01.Book">
         <property name="author" value="路遥" />
         <property name="bookName" value="平凡的世界" />
     </bean>

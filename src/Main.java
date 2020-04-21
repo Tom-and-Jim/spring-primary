@@ -1,3 +1,4 @@
+import chapter01.Book;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
